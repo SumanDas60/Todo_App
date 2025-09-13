@@ -18,15 +18,15 @@ Stay organized, manage tasks, and enjoy a sleek **dark/light mode** UI with sear
 ---
 
 ## 📸 Screenshots
-![image description](Red image\lest.png)
+![image description](Red image/lest.png)
 
 ### Light Mode
 
-![Light Mode Screenshot](Red image\one.png)
+![Light Mode Screenshot](Red image/one.png)
 
 ### Dark Mode
 
-![Dark Mode Screenshot](Red image\tow.png)
+![Dark Mode Screenshot](Red image/tow.png)
 
 *(Add screenshots after running your app and uploading images to your repo or an image host)*
 
