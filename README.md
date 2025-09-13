@@ -18,15 +18,15 @@ Stay organized, manage tasks, and enjoy a sleek **dark/light mode** UI with sear
 ---
 
 ## 📸 Screenshots
-![image description](Red image/lest.png)
+![image description](https://github.com/SumanDas60/Todo_App/blob/fe8bc3aa3febbafad2bd32986204b4ba19caa779/lest.png)
 
 ### Light Mode
 
-![Light Mode Screenshot](Red image/one.png)
+![Light Mode Screenshot](https://github.com/SumanDas60/Todo_App/blob/fe8bc3aa3febbafad2bd32986204b4ba19caa779/one.png)
 
 ### Dark Mode
 
-![Dark Mode Screenshot](Red image/tow.png)
+![Dark Mode Screenshot](https://github.com/SumanDas60/Todo_App/blob/fe8bc3aa3febbafad2bd32986204b4ba19caa779/tow.png)
 
 *(Add screenshots after running your app and uploading images to your repo or an image host)*
 
