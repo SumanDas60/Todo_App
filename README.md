@@ -45,8 +45,8 @@ Stay organized, manage tasks, and enjoy a sleek **dark/light mode** UI with sear
 ```
 TodoApp/
 │-- src/
-│   ├── components/
-│   │   └── TodoApp.jsx
+│   ├── page/
+│   │   └── todoApp.jsx
 │   ├── App.js
 │   ├── index.js
 │   └── ...
@@ -62,7 +62,7 @@ TodoApp/
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/SumanDas60/Todo_App.git
    cd todo-app
    ```
 
@@ -78,11 +78,6 @@ TodoApp/
    npm start
    ```
 
-4. Open in browser:
-
-   ```
-   http://localhost:3000
-   ```
 
 ---
 
